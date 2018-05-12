@@ -14,6 +14,10 @@ Unreleased changes
     - Add sticker message event definition.
     (`#1158 <https://github.com/matrix-org/matrix-doc/pull/1158>`_).
 
+  - ``@room`` Notifications PL:
+    - Specify how to control the power level required for ``@room``.
+    (`#1176 <https://github.com/matrix-org/matrix-doc/pull/1176>`_).
+
 - Spec clarifications:
 
   - Update ``ImageInfo`` and ``ThumbnailInfo`` dimension schema descriptions
